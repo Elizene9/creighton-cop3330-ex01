@@ -1,4 +1,11 @@
 /*
+ * UCF COP 3330 Summer 2021 Assignment 1 Solutions
+ * Copyright 2021 Charlene Creighton
+ */
+package Exercise_1;
+
+import java.util.Scanner;
+/*
 Exercise 1 - Saying Hello
 Create a program that prompts for your name and prints a greeting using your name.
 
@@ -9,11 +16,6 @@ Hello, Brian, nice to meet you!
 Constraint
 Keep the input, string concatenation, and output separate.
  */
-
-package Exercise_1;
-
-import java.util.Scanner;
-
 public class ex01 {
     public static void main(String[] args) {
 
